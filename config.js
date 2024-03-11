@@ -7,17 +7,17 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['234704535241', 'EXCEL', true], 
-  ['2348021779696', 'EXCEL', true], 
-  ['234704503541', '⚡Excel', true],
+  ['918787651195', 'Awmtea', true], 
+  ['918787651195', 'Awmtea', true], 
+  ['918787651195', '⚡Awmtea', true],
 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "919362641982" //put your bot number here
 
-global.mods = ['2341', '2348021779696', '2347045035241','233533763772'] 
-global.prems = ['2347045035241','233208179431','233533763772']
-global.allowed = ['2348021779696', '2347045035241']
+global.mods = ['918787651195'] 
+global.prems = ['918787651195']
+global.allowed = ['918787651195']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -52,10 +52,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-MD-V2'
+global.botname = 'MR.BOT-MD-V2'
 global.premium = 'true'
-global.packname = 'STAR-MD' 
-global.author = '@Excel' 
+global.packname = 'MR.BOT-MD' 
+global.author = '@AwMtea' 
 global.menuvid = 'https://i.imgur.com/BPqmxsm.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
