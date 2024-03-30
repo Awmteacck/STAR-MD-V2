@@ -56,14 +56,14 @@ global.botname = 'MR.BOT-MD-V2'
 global.premium = 'true'
 global.packname = 'MR.BOT-MD' 
 global.author = '@AwMtea' 
-global.menuvid = 'https://i.imgur.com/BPqmxsm.mp4'
+global.menuvid = 'https://telegra.ph/file/c76167f3754f68319f250.jpg'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
 global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
 global.fgyt = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
 global.fgpyp = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
-global.fglog = 'STAR.jpg' 
-global.thumb = fs.readFileSync('./STAR.jpg')
+global.fglog = 'https://telegra.ph/file/c76167f3754f68319f250.jpg' 
+global.thumb = fs.readFileSync('https://telegra.ph/file/c76167f3754f68319f250.jpg')
 
 
 global.wait = '*🕣 _STAR IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
