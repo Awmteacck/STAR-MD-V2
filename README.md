@@ -69,26 +69,22 @@ If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appre
 ## 🛠️ `Installation Procedure`
 
 
-☉FORK THE REPOSITORY 
-    <br>
-<a href="https://github.com/Xcelsama/STAR-MD-V2/fork"><img title="STAR-V2" src="https://img.shields.io/badge/FORK STAR-MD?color=blue&black=for-the-badge&logo=stackshare"></a>
+❏FORK THE REPOSITORY 
+  <a href="https://github.com/Xcelsama/STAR-MD-V2/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
 
 
 
-◔Get Session ID (PAIR-CODE)                     
-<a href='https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app' target="_blank"><img alt='PAIR-CODE' src='https://img.shields.io/badge/PAIR-CODE100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=blue&color=black'/></a>
 
-
-
-◔ Get Session ID (SCAN QR)
-    <br>
-<a href='https://session.guruapi.tech/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/SCAN_QR_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=blue&color=black'/></a>
+❏GET SESSION ID 
+(PAIR-CODE)           
  
-
-⚙︎USE THIS IF YOU DON'T HAVE REPLIT                     
-<a href="https://session.guruapi.tech/qr" target="_blank">
+<a href="https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
+
+
 
 
 
